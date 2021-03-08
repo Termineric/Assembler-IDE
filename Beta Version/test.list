@@ -1,0 +1,49 @@
+F00:0001       ;this taken from ben Eater and change bit (Thanks BEN for all good work)
+F00:0002       ;Assembly language vs. machine code — 6502 part 3 (go Look on youtube)
+F00:0003           .org $8000
+F00:0004       reset:
+F00:0005           Lda #$ff
+               S01:FFFFFFFFFFFF8000:  A9 FF
+F00:0006           Sta $6002
+               S01:FFFFFFFFFFFF8002:  8D 02 60
+F00:0007           
+F00:0008       loop:
+F00:0009           lda #$55
+               S01:FFFFFFFFFFFF8005:  A9 55
+F00:0010           sta $6000
+               S01:FFFFFFFFFFFF8007:  8D 00 60
+F00:0011       
+F00:0012           lda #$aa
+               S01:FFFFFFFFFFFF800A:  A9 AA
+F00:0013           sta $6000
+               S01:FFFFFFFFFFFF800C:  8D 00 60
+F00:0014       
+F00:0015           jmp loop
+               S01:FFFFFFFFFFFF800F:  4C 05 80
+F00:0016       
+F00:0017       
+F00:0018           .org $fffa
+F00:0019           .word $0000 ; IRQ vector
+               S02:FFFFFFFFFFFFFFFA:  00 00
+F00:0020           .word reset ; Reset vector
+               S02:FFFFFFFFFFFFFFFC:  00 80
+F00:0021           .word $0000 ; MNI vector
+               S02:FFFFFFFFFFFFFFFE:  00 00
+
+
+Sections:
+S01  seg8000
+S02  segfffa
+
+
+Sources:
+F00  Test.ASM
+
+
+Symbols:
+loop EXPR(-32763=0x8005) ABS 
+reset EXPR(-32768=0x8000) ABS 
+__RPTCNT EXPR(-1=0xffff) INTERNAL 
+__VASM EXPR(0=0x0) INTERNAL 
+
+There have been no errors.

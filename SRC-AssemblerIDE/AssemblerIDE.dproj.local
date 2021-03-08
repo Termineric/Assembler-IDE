@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.157,=Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\aboutform.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.813,Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\aboutform.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.889,Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\aboutform.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.038,Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\aboutform.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.362,=Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\aboutform.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.575,Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\Main.dfm=Y:\My Project List\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.364,=Y:\My Project List\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.614,Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\SettingDLG.dfm=Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.575,Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\Main.pas=Y:\My Project List\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.164,=Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.506,Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\About_Form.pas=Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.132,=Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\aboutform.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.614,Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\SettingDLG.pas=Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.080,=Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.545,=Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.506,Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\About_Form.dfm=Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\Unit2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.148,Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\vasmIDE.dproj=Y:\My Project List\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.466,Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\vasmIDE.dproj=Y:\My Project List\My-VONE-6502\Tool Folder\vasm-IDE\vasmIDE.dproj</Transaction>
+    <Transaction>2021-03-07 08:50:48.967,Y:\My Project List\Assembler-IDE\SRC-AssemblerIDE\AssemblerIDE.dproj=Y:\My Project List\Assembler-IDE\SRC-AssemblerIDE\vasmIDE.dproj</Transaction>
+    <Transaction>2021-03-07 10:07:25.599,=Y:\My Project List\Assembler-IDE\SRC-AssemblerIDE\Unit1.pas</Transaction>
+    <Transaction>2021-03-07 10:10:41.023,Y:\My Project List\Assembler-IDE\SRC-AssemblerIDE\AppsCommon.pas=Y:\My Project List\Assembler-IDE\SRC-AssemblerIDE\Unit1.pas</Transaction>
+    <Transaction>2021-03-07 10:27:38.359,=Y:\My Project List\Assembler-IDE\SRC-AssemblerIDE\Unit1.pas</Transaction>
+    <Transaction>2021-03-07 10:29:19.231,Y:\My Project List\Assembler-IDE\SRC-AssemblerIDE\Assembler6502.pas=Y:\My Project List\Assembler-IDE\SRC-AssemblerIDE\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
