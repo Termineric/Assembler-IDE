@@ -7,3 +7,7 @@ The project I yust start and i will build more as i need (for now is not yett re
 Any Wish or so for this let me know andy help please do so i do this only in weekend 
 
 More is comming ......
+
+
+
+Folder structure is basic for any of my projects please don't ask about why have database folder or so
